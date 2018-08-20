@@ -7,3 +7,5 @@ This repository holds basic Python programs for learning.
 - Learn Python and Basics
 - Use VSCode 
 - Learn Git for Source control
+
+#Suggestions
